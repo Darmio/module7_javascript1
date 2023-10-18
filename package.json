@@ -1,0 +1,16 @@
+{
+  "name": "jspractice",
+  "type": "commonjs",
+  "version": "1.0.1",
+  "description": "js practical task 1",
+  "main": "js_practical_task.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daria Kushniruk",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
